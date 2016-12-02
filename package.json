@@ -1,0 +1,24 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "testing environment for FCC Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/fcc_tester.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "javascript",
+    "mocha"
+  ],
+  "author": "davi3blu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/fcc_tester/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/fcc_tester#readme"
+}
