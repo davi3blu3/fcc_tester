@@ -9,6 +9,7 @@ TestFunc = {
     findLongestWord: function(str) {
 
         // *** WRITE FUNCTION TO TEST BETWEEN THIS LINE ***
+        
         var Arr = str.split(' ');
         var longest = 0;
         
