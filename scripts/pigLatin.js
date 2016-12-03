@@ -12,7 +12,7 @@ TestFunc = {
 
         // *** WRITE CODE TO TEST BETWEEN THIS LINE ***
 
-        return str + "hey!";
+        return str + "asy!";
 
         // *** AND THIS ONE ***
     }
