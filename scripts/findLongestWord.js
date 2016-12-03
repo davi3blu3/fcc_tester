@@ -8,17 +8,10 @@ var TestFunc;
 TestFunc = {
     findLongestWord: function(str) {
 
-        // *** WRITE FUNCTION TO TEST BETWEEN THIS LINE ***
-        
-        var Arr = str.split(' ');
-        var longest = 0;
-        
-        for (i = 0; i < Arr.length; i++) {
-            if (Arr[i].length > longest) {
-            longest = Arr[i].length;
-            }
-        }
-        return longest;
+        // *** WRITE CODE TO TEST BETWEEN THIS LINE ***
+
+
+        return str;
 
         // *** AND THIS ONE ***
     }
